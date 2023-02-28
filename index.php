@@ -7,8 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-
-    <img src="./static/image/pngtree-color-ink-shooting-female-athlete-png-image_3622010-removebg-preview.png" alt="#">
     
+    <script src="./script.js"></script>
 </body>
 </html>
